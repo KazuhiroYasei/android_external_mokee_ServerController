@@ -783,6 +783,14 @@ $hardware_info = [
         'display' => '5.0 inch, 1920x1080 pixel(441ppi]',
         'cpuarch' => 'ARM'
     ],
+     'kuntao' => [
+        'cpu' => 'Qualcomm® Snapdragon™ 625',
+        'ram' => '3GB/4GB',
+        'rom' => '32GB/64GB',
+        'battery' => '5100 mAh',
+        'display' => '5.5 inch, 1920x1080 pixel(401ppi]',
+        'cpuarch' => 'ARM64'
+    ],
     'l900' => [
         'cpu' => 'Samsung Exynos 4412',
         'ram' => '2GB of LP-DDR3',
